@@ -87,7 +87,7 @@ sections:
     background: gray
     title: Latest Posts
   - title: ' fgh fgh fgh'
-    section_id: lorem-ipsum
+    section_id: lorem-ipsum fghfgh
     content: >-
       ## Lorem ipsum
 
